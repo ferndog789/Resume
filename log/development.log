@@ -1,0 +1,200 @@
+
+
+Started GET "/" for 127.0.0.1 at 2012-01-30 23:36:12 -0800
+  Processing by ResumeController#index as HTML
+Rendered resume/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 5ms (Views: 4.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/Resume_files/all.css" for 127.0.0.1 at 2012-01-30 23:36:12 -0800
+
+ActionController::RoutingError (No route matches "/Resume_files/all.css"):
+  
+
+Rendered /Users/andrijaperovic/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/Resume_files/reset_fonts_grids.css" for 127.0.0.1 at 2012-01-30 23:36:12 -0800
+
+ActionController::RoutingError (No route matches "/Resume_files/reset_fonts_grids.css"):
+  
+
+Rendered /Users/andrijaperovic/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/Resume_files/resume.css" for 127.0.0.1 at 2012-01-30 23:36:12 -0800
+
+ActionController::RoutingError (No route matches "/Resume_files/resume.css"):
+  
+
+Rendered /Users/andrijaperovic/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (18.3ms)
+
+
+Started GET "/Resume_files/prototype.js" for 127.0.0.1 at 2012-01-30 23:36:12 -0800
+
+ActionController::RoutingError (No route matches "/Resume_files/prototype.js"):
+  
+
+Rendered /Users/andrijaperovic/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/Resume_files/effects.js" for 127.0.0.1 at 2012-01-30 23:36:12 -0800
+
+ActionController::RoutingError (No route matches "/Resume_files/effects.js"):
+  
+
+Rendered /Users/andrijaperovic/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/Resume_files/dragdrop.js" for 127.0.0.1 at 2012-01-30 23:36:12 -0800
+
+ActionController::RoutingError (No route matches "/Resume_files/dragdrop.js"):
+  
+
+Rendered /Users/andrijaperovic/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/Resume_files/controls.js" for 127.0.0.1 at 2012-01-30 23:36:12 -0800
+
+ActionController::RoutingError (No route matches "/Resume_files/controls.js"):
+  
+
+Rendered /Users/andrijaperovic/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/Resume_files/rails.js" for 127.0.0.1 at 2012-01-30 23:36:12 -0800
+
+ActionController::RoutingError (No route matches "/Resume_files/rails.js"):
+  
+
+Rendered /Users/andrijaperovic/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/Resume_files/application.js" for 127.0.0.1 at 2012-01-30 23:36:12 -0800
+
+ActionController::RoutingError (No route matches "/Resume_files/application.js"):
+  
+
+Rendered /Users/andrijaperovic/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/Resume_files/reset_fonts_grids(1).css" for 127.0.0.1 at 2012-01-30 23:36:12 -0800
+
+ActionController::RoutingError (No route matches "/Resume_files/reset_fonts_grids(1).css"):
+  
+
+Rendered /Users/andrijaperovic/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/Resume_files/resume(1).css" for 127.0.0.1 at 2012-01-30 23:36:12 -0800
+
+ActionController::RoutingError (No route matches "/Resume_files/resume(1).css"):
+  
+
+Rendered /Users/andrijaperovic/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-01-30 23:47:52 -0800
+  Processing by ResumeController#index as HTML
+Rendered resume/index.html.erb within layouts/application (18.9ms)
+Completed 200 OK in 39ms (Views: 38.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/Resume_files/all.css" for 127.0.0.1 at 2012-01-30 23:47:53 -0800
+
+ActionController::RoutingError (No route matches "/Resume_files/all.css"):
+  
+
+Rendered /Users/andrijaperovic/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/Resume_files/reset_fonts_grids.css" for 127.0.0.1 at 2012-01-30 23:47:53 -0800
+
+ActionController::RoutingError (No route matches "/Resume_files/reset_fonts_grids.css"):
+  
+
+Rendered /Users/andrijaperovic/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/Resume_files/resume.css" for 127.0.0.1 at 2012-01-30 23:47:53 -0800
+
+ActionController::RoutingError (No route matches "/Resume_files/resume.css"):
+  
+
+Rendered /Users/andrijaperovic/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/Resume_files/effects.js" for 127.0.0.1 at 2012-01-30 23:47:53 -0800
+
+ActionController::RoutingError (No route matches "/Resume_files/effects.js"):
+  
+
+Rendered /Users/andrijaperovic/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/Resume_files/prototype.js" for 127.0.0.1 at 2012-01-30 23:47:53 -0800
+
+ActionController::RoutingError (No route matches "/Resume_files/prototype.js"):
+  
+
+Rendered /Users/andrijaperovic/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/Resume_files/dragdrop.js" for 127.0.0.1 at 2012-01-30 23:47:53 -0800
+
+ActionController::RoutingError (No route matches "/Resume_files/dragdrop.js"):
+  
+
+Rendered /Users/andrijaperovic/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/Resume_files/controls.js" for 127.0.0.1 at 2012-01-30 23:47:53 -0800
+
+ActionController::RoutingError (No route matches "/Resume_files/controls.js"):
+  
+
+Rendered /Users/andrijaperovic/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/Resume_files/rails.js" for 127.0.0.1 at 2012-01-30 23:47:53 -0800
+
+ActionController::RoutingError (No route matches "/Resume_files/rails.js"):
+  
+
+Rendered /Users/andrijaperovic/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/Resume_files/application.js" for 127.0.0.1 at 2012-01-30 23:47:53 -0800
+
+ActionController::RoutingError (No route matches "/Resume_files/application.js"):
+  
+
+Rendered /Users/andrijaperovic/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/Resume_files/reset_fonts_grids(1).css" for 127.0.0.1 at 2012-01-30 23:47:53 -0800
+
+ActionController::RoutingError (No route matches "/Resume_files/reset_fonts_grids(1).css"):
+  
+
+Rendered /Users/andrijaperovic/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/Resume_files/resume(1).css" for 127.0.0.1 at 2012-01-30 23:47:53 -0800
+
+ActionController::RoutingError (No route matches "/Resume_files/resume(1).css"):
+  
+
+Rendered /Users/andrijaperovic/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.0.5/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-01-30 23:53:29 -0800
+  Processing by ResumeController#index as HTML
+Rendered resume/index.html.erb within layouts/application (25.0ms)
+Completed 200 OK in 28ms (Views: 27.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-01-30 23:53:44 -0800
+  Processing by ResumeController#index as HTML
+Rendered resume/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 4ms (Views: 4.2ms | ActiveRecord: 0.0ms)
