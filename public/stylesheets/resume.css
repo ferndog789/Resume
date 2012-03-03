@@ -41,6 +41,8 @@ a { color: #990003 }
 a:hover { text-decoration: none; }
 strong { font-weight: bold; }
 li { line-height: 24px; border-bottom: 1px solid #ccc; }
+li.objective{ border-bottom: 0px; list-style: circle; font-size: 15px;}
+li.experience{ border-bottom: 0px; list-style: circle; font-size: 15px;}
 p.enlarge { font-size: 144%; padding-right: 0em; line-height: 24px; }
 p.enlarge span { color: #000 }
 .contact-info { margin-top: 7px; }
